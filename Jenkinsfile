@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "pmwtraining/vatcal"
+ registry = "h323k14h/vatcal"
         registryCredentials = "docker_hub_id"
         dockerImage = ""
     }
